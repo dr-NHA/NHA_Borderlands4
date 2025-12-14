@@ -29,3 +29,7 @@ Viewer, Basic Editor, Copier
 <img width="901" height="815" alt="Borderlands4CTWeapons" src="https://github.com/dr-NHA/NHA_Borderlands4/blob/main/Preview/Borderlands4CTWeapons.png?raw=true" />
 
 
+<img width="899" height="8105" alt="Borderlands4CTPartEdit" src="https://github.com/dr-NHA/NHA_Borderlands4/blob/main/Preview/Borderlands4CTPartEdit.png?raw=true" />
+
+
+
