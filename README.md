@@ -16,4 +16,4 @@ Viewer, Basic Editor, Copier
 # Hover Edit And Dump Script Included
 # Plenty More , And More To Come
 
-<img width="902" height="564" alt="Borderlands4CTGeneral" src="https://github.com/dr-NHA/NHA_Borderlands4/Preview/Borderlands4CTMain.png" />
+<img width="902" height="564" alt="Borderlands4CTGeneral" src="https://github.com/dr-NHA/NHA_Borderlands4/blob/main/Preview/Borderlands4CTGeneral.png?raw=true" />
