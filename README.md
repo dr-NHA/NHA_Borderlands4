@@ -1,20 +1,31 @@
 # NHA_Borderlands4
-Open Source Cheat Table Made By ME!
+#### Open Source Cheat Table Made By ME For The Community
 
-# WITH EASY TO USE GUI
+## Special Thanks To The Donators:
+wolfbeast777, venom_og_1, frag_em_all
 
-# Features
-Players:
+## WITH EASY TO USE GUI
+
+## Features
+### Players:
 God, Ammo, Jump, Noclip, Money Ect.
 
-Enemys:
+### Enemys:
 Kill, Teleport, Enemy Type Changer
 
-Inventory:
-Viewer, Basic Editor, Copier
+### Inventory:
+Viewer, Basic Editor, Copier, Hover Edit And Dump
 
-# Hover Edit And Dump Script Included
-# Plenty More , And More To Come
+## UE Utilities
+#### Process Event Finder & Call Setup For Lua
+#### Lua SDK Dumper
+#### CPP SDK Dumper
+#### FName Pool Dumper
+#### Object Dumper
+#### Function Info Dumper
+#### Structure Dissect For UObjects
+#### Callback For Aquiring Offsets Via GetAddress
+#### FULLY UPDATE STABLE!
 
 <img width="902" height="564" alt="Borderlands4CTMain" src="https://github.com/dr-NHA/NHA_Borderlands4/blob/main/Preview/Borderlands4CTMain.png?raw=true" />
 
